@@ -1,0 +1,56 @@
+template: online-cv
+skin: blue
+basic_info:
+  first_name: Juan
+  last_name: Krypto
+  motto: I am curious
+  focus: Killing Bad Boys
+  summary: >
+    I am a serial entrepreneur, lover of technology and the agricultural
+    world. Highly committed with innovation and world evolution. 
+
+
+    Blockchain ecosystem enthusiast, believer in the potential of this technology in the evolution of all current structures of society, both economic and cultural.
+  avatar: https://randomuser.me/api/portraits/women/24.jpg
+  email: info.nftesos@gmail.com
+  github: example
+  twitter: webjeda
+  stack-overflow: null
+  languages:
+    - idiom: Spanish
+      level: Native
+    - idiom: English
+      level: Professional
+  interests:
+    - item: Climbing
+    - item: Padel
+    - item: Learn
+education:
+  - degree: Master Business Administration degree
+    university: EAFIT
+experiences:
+  - role: Founder and Chief operating officer, Fruturo
+    time: 2019 - Present
+    company: Fruturo, Colombia
+    details: >-
+      Fruturo is a Business to Business (B2B) platform, where small growers
+      are connected with international clients. We took the project from 0
+      containers exported to reaching more than 100 containers per year, over
+      the course of 5 years. We developed the logistics of 6 different types of
+      fruit, so that they reach more than 8 countries.
+
+      - Bullet point - Bullet point
+skills:
+  toolset:
+    - name: Python & Django
+      level: 98%
+    - name: JavaScript & jQuery
+      level: 98%
+    - name: Angular
+      level: 98%
+    - name: HTML5 & CSS
+      level: 95%
+    - name: Ruby on Rails
+      level: 85%
+    - name: Sketch & Photoshop
+      level: 60%
